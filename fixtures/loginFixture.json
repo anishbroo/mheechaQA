@@ -1,0 +1,15 @@
+{
+    "validLogin": {
+        "userName": "anishbroo",
+        "password": "anishbroo"
+    },
+    "invalidLogin": {
+        "userName": "admin",
+        "password": "admin"
+    },
+
+    "emptyLogin": {
+        "userName": "",
+        "password": ""
+    }
+}
